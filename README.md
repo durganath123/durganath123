@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @durganath123
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on --- (Nothing upto Now :))
+- 👀 I’m a DevOps Engineer
 - 📫 Reach me at durganath123@outlook.com
 
 <!---
